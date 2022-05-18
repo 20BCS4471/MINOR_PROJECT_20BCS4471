@@ -1,0 +1,149 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+/* First-Container */
+a{
+text-decoration:none;
+}
+a:hover {
+text-decoration:none;
+  color: grey;
+}
+#Introduction{
+  background-color: #051367;
+  color: #fff;
+  padding: 4% 5%;
+}
+.navbar{
+  padding:0 0 2rem;
+}
+ .navbar-brand {
+  font-size:6rem !important;
+font-family: "Zen Tokyo Zoo";
+line-height: 2 !important;
+color: #789395;
+}
+.secondPagebutton:hover{
+  color:#fff;
+}
+.secondPagebutton{
+  color:#fff;
+}
+h2{
+  padding:0px 5px;
+}
+.title-image{
+position: relative;
+  left:  30%;
+}
+.nav-link
+{
+  color:#fff;
+  font-size: 1.5rem;
+  padding-right: 5px;
+  position: relative;
+  right: 25%;
+}
+.fontStyle{
+  margin-top:   10%;
+  margin-left: 4%;
+text-align: center;
+font-family: "Gideon Roman";
+font-size: 3rem;
+}
+.btnFirst{
+  position: absolute;
+  cursor: pointer;
+}
+.btn{
+
+  font-size: 1.75rem !important;
+/* position: absolute; */
+margin-top: 2rem;
+left: 35%;
+}
+
+
+
+#Features{
+
+  background-color: white;
+    padding:7% 15% ;
+  position: relative;
+
+
+}
+
+.second-feature{
+text-align: center;
+padding: 5%;
+/* font-family: "Montserrat-bold"; */
+}
+p{
+  color:grey;
+}
+.icon{
+  color: #5D8BF4;
+  padding-bottom: 15px;
+}
+.icon:hover{
+  color: #051367;
+}
+#testimonials{
+    padding:7% 0;
+    background-color: #5D8BF4;
+    color:#fff;
+    text-align: center;
+}
+.testi-em{
+  font-size: 2rem;
+}
+.testimonial-image{
+  width:20%;
+border-radius: 100%;
+margin: 30px;
+}
+.colorofStar{
+  color: gold;
+}
+#press{
+  background-color: #5D8BF4;
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+.press-logo{
+  width: 15%;
+  margin: 0 20px 50px;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-col{
+  padding:3% 2%;
+}
+#cta{
+  padding: 7% 15% ;
+  background-color: #051367;
+  color:#fff;
+  text-align: center;
+  font-family: "Montserrat";
+
+  font-weight: bold;
+}
+.ctah3{
+  font-family: "Montserrat";
+  font-size:3rem;
+  line-height:1.5;
+  font-weight:bolder;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon{
+  padding:20px 10px;
+}

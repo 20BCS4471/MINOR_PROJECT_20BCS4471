@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/*#divideColor{
+    background-color: linear-gradient(to right,#B4FF9F 0%,#B4FF9F 0% ,pink 50%, pink 100% );
+}*/
+.genderImage{
+    padding:5% 15%;
+    width: 90%;
+    height: 90%;
+}

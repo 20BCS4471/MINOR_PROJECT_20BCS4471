@@ -1,0 +1,18 @@
+#forNavigation{
+    background-color:#B4FF9F;
+}
+/*.navbar{
+  padding:0 0 2rem;
+}*/
+.dis{
+    /*padding: 0 0 5rem;*/
+    text-align: center;
+}
+a{
+    color: red;
+}
+#tableOwner{
+          
+    margin: 2% 10%;
+    background-color: #5D8BF4; 
+}
